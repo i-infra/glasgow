@@ -15,6 +15,7 @@ Applet index
     radio/index
     control/index
     sensor/index
+    display/index
     bridge/index
     audio/index
     measure/index

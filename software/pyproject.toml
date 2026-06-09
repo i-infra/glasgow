@@ -156,6 +156,7 @@ sensor-scd30 = "glasgow.applet.sensor.scd30:SensorSCD30Applet"
 sensor-qmc5883p = "glasgow.applet.sensor.qmc5883p:SensorQMC5883PApplet"
 
 display-hd44780 = "glasgow.applet.display.hd44780:DisplayHD44780Applet"
+display-pls916h = "glasgow.applet.display.pls916h:DisplayPLS916HApplet"
 
 audio-dac = "glasgow.applet.audio.dac:AudioDACApplet"
 audio-yamaha-opx = "glasgow.applet.audio.yamaha_opx:AudioYamahaOPxApplet [http]"
